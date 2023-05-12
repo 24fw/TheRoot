@@ -1,0 +1,7 @@
+# backend
+.back/node_modules
+.back/database.db
+.back/config.json
+
+# frontend
+.front/node_modules
