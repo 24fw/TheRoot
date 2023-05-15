@@ -1,5 +1,8 @@
 <template>
-  <Tutorial/>
+  <nuxtlayout>
+  <nuxtloadingindicator/>
+  <nuxtlayout/>
+
 </template>
 
 <script>
